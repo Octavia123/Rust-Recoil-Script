@@ -8,8 +8,7 @@ There discord server:
 https://discord.gg/GvbjDCpyjF
 
 There discord Tags :
-VANITY#9999
-Monke#4662
+VANITY#9999 | Monke#4662
 
 There website to sell the scripts on :
 https://sellix.io/VANITYWIN-RUST
