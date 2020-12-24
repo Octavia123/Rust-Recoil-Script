@@ -4,7 +4,7 @@ So I randomly got a direct message from someone asking if I could redesign an im
 Youtube link to video where paster is trying to sell his script :
 https://www.youtube.com/watch?v=yhFiVfeI7FY&t
 
-There discord server:
+There discord server :
 https://discord.gg/GvbjDCpyjF
 
 There discord Tags :
@@ -15,4 +15,6 @@ https://sellix.io/VANITYWIN-RUST
 
 I only decided to do this because its not right for someone to get paid for someone elses work.
 
-Enjoy
+For the loader I believe they are using a purchased loader from https://vanguardloaders.com - Source also included.
+
+Enjoy!
